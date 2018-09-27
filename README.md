@@ -1,3 +1,6 @@
+![alt text](https://github.com/zerocurrencycoin/Zero-Telegram-Discord-Relay-Bot/blob/master/Mr%20Bender%20Zero.png)
+
+
 Zero - TediCross
 =========
 TediCross is a bot which bridges a chat in [Telegram](https://telegram.org) with a channel in [Discord](https://discordapp.com/).
