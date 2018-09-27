@@ -3,7 +3,7 @@
 
 Zero - Mr Bender Bot (TediCross)
 =========
-Zero - Mr Bender Bot (TediCross) is a bot which bridges chat from [Telegram](https://t.me/zerocurrency) with a channel in [Discord](https://discord.gg/Jq5knn5) & vice versa. 
+Zero - Mr Bender Bot (TediCross) is a bot which bridges chat from [Zero's Telegram](https://t.me/zerocurrency) with #General-Chat in [Zero's Discord](https://discord.gg/Jq5knn5) & vice versa. 
 
 There is no public Zero - Mr Bender Bot (TediCross). You need to host it yourself. To host a bot, you need [nodejs](https://nodejs.org). The bot requires NodeJS 8 or higher
 
