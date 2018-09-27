@@ -1,9 +1,9 @@
 ![alt text](https://github.com/zerocurrencycoin/Zero-Telegram-Discord-Relay-Bot/blob/master/Mr%20Bender%20Zero.png)
 
 
-Zero - Mr Bender Bot (TediCross)
+Zero - Mr Bender Bot 
 =========
-Zero - Mr Bender Bot (TediCross) is a bot which bridges chat from [Zero's Telegram](https://t.me/zerocurrency) with #General-Chat in [Zero's Discord](https://discord.gg/Jq5knn5) 
+Zero - Mr Bender Bot is a bot which bridges chat from [Zero's Telegram](https://t.me/zerocurrency) with #General-Chat in [Zero's Discord](https://discord.gg/Jq5knn5) 
 
 Any chat from these channels will be relayed instantly.
 
