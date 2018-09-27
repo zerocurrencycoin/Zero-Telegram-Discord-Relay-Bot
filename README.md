@@ -182,5 +182,5 @@ Want to donate?
 
 Cryptocoins of the following types are accepted:
 
-* BTC: 1Gzr9ZyvTiFCPKfy2BshuZgUeFLebAfbFU
-* ETH: 0x9449D54C85C8FdB079e74379d93A9C9fe611981A
+* ZER: t1cDotxmVEJrniDjNqqjsCWq8mLMApV8vXC
+
