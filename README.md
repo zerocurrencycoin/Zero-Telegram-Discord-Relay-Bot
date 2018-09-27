@@ -1,4 +1,4 @@
-![alt text](https://github.com/zerocurrencycoin/Zero-Telegram-Discord-Relay-Bot/blob/master/Mr%20Bender%20Zero.png)
+![alt text](https://github.com/zerocurrencycoin/Zero-Telegram-Discord-Relay-Bot/blob/master/Mr%20Bender%20Zero%20small.png)
 
 
 Zero - Mr Bender Bot 
