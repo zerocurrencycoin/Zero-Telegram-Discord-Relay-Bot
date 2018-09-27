@@ -1,0 +1,45 @@
+{
+  "name": "tedicross",
+  "version": "0.1.0",
+  "description": "Better DiteCross",
+  "scripts": {
+    "start": "node main.js",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "js-yaml": "^3.11.0",
+    "mime": "^2.2.0",
+    "moment": "^2.21.0",
+    "ramda": "^0.25.0",
+    "simple-markdown": "^0.3.2",
+    "teleapiwrapper": "^2.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  },
+  "eslintConfig": {
+    "parserOptions": {
+      "ecmaVersion": 2017
+    },
+    "env": {
+      "es6": true,
+      "node": true
+    },
+    "extends": "eslint:recommended",
+    "rules": {
+      "indent": [
+        "error",
+        "tab",
+        {
+          "SwitchCase": 1
+        }
+      ],
+      "linebreak-style": "error",
+      "quotes": "error",
+      "semi": "error",
+      "no-var": "error",
+      "prefer-const": "error"
+    }
+  }
+}
